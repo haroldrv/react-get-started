@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Wrapper from './lifecycle'
+import Arrays from './arrays';
 
 ReactDOM.render(
-    <Wrapper />,
+    <Arrays />,
     document.getElementById('root')
 );
